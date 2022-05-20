@@ -8,7 +8,7 @@ Hi, I'm Giorgia Mazzi. You can call me Jo. Thanks for visiting my page.
 
 🌱 Still Learning a lot.
 
-💬 Ping me about Data Science, Data Analytics, Machine Learning, Cybersecurity.
+💬 Ping me about Data Science, Machine Learning, Cybersecurity.
 
 📫 Email Me - jo181094@hotmail.it
 
